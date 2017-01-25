@@ -1,7 +1,7 @@
 body {
 	margin:0;
 }
-.summar h1{
+.sumar h1{
 	/*sumar stílar hér*/
 	background: linear-gradient(to top left,  yellow, red); /* Standard syntax (must be last) */
 	position: fixed;
